@@ -1,0 +1,2 @@
+# MiniProjeto_Modulo2_IA-1_SCTEC
+MiniProjeto_Modulo2_IA#1_SCTEC
