@@ -1,6 +1,7 @@
-Kaggle
-pandas
 scikit-learn
+pandas
+numpy
+matplotlib
 seaborn
-tensorflow
-keras
+time
+Paint 3D
