@@ -1,0 +1,8 @@
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+time
+Paint 3D
+Pillow
